@@ -31,5 +31,5 @@ Code was modified from md to xs in all areas to better facilitate mobile apps.
 #### Styling
 
 Modified index.html for the following:
-1. Changed button to red by using the code to <p><a class="btn btn-danger btn-lg" href="/scrape" role="button">Scrape New Data</a></p>.
-2. Change table to striped by changing code to <table class="table table-striped">.
+1. Changed button to red by using the code to "class='btn btn-danger btn-lg'".
+2. Change table to striped by changing code to "table class='table table-striped'".
